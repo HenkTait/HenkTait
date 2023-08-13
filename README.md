@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @HenkTait
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in sports and Music.
+- 🌱 I’m currently learning Data Analytics and Cybersecurity.
+- 💞️ I’m looking to collaborate on Data Analytics.
+- 📫 Reach me at henktait23@gmail.com
+- I own an online Radio Station named www.barradio.co.za
 
 <!---
 HenkTait/HenkTait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
